@@ -4,3 +4,13 @@ openai-whisper
 requests
 python-dotenv
 ffmpeg-python
+sounddevice 
+scipy 
+numpy
+Pillow==9.5.0
+google-auth 
+google-auth-oauthlib 
+google-auth-httplib2 
+google-api-python-client
+requests 
+beautifulsoup4
